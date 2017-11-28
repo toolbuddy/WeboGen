@@ -1,0 +1,116 @@
+{
+    "data": [{
+            "img": "/Member/ichiehlin.jpg",
+            "name": {
+                "en": "I-Chieh Lin",
+                "ch": "林以婕"
+            },
+            "inst": {
+                "en": "Institute of Network Engineering",
+                "ch": "網路工程研究所"
+            },
+            "research": "[研究方向]",
+            "join": "SEP 2017",
+            "detail": false,
+            "about": "[About me]",
+            "email": "",
+            "github": ""
+        },{
+            "img": "/Member/hungweihung.jpg",
+            "name": {
+                "en": "Hung-Wei Hung",
+                "ch": "洪鴻維"
+            },
+            "inst": {
+                "en": "Institute of Network Engineering",
+                "ch": "網路工程研究所"
+            },
+            "research": "[研究方向]",
+            "join": "JUL 2016",
+            "detail": false,
+            "about": "[About me]",
+            "email": "",
+            "github": ""
+        }, {
+            "img": "/Member/lijyunhuang.jpg",
+            "name": {
+                "en": "Li-Jyun Huang",
+                "ch": "黃俐君"
+            },
+            "inst": {
+                "en": "Institute of Computer Science and Engineering",
+                "ch": "資訊科學與工程研究所"
+            },
+            "research": "[研究方向]",
+            "join": "JUL 2016",
+            "detail": false,
+            "about": "[About me]",
+            "email": "",
+            "github": ""
+        }, {
+            "img": "elyse.png",
+            "name": {
+                "en": "Zankio Huang",
+                "ch": "黃子銘"
+            },
+            "inst": {
+                "en": "Institute of Network Engineering",
+                "ch": "網路工程研究所"
+            },
+            "research": "[研究方向]",
+            "join": "JUL 2016",
+            "detail": false,
+            "about": "[About me]",
+            "email": "",
+            "github": ""
+        }, {
+            "img": "/Member/hsinweikao.jpg",
+            "name": {
+                "en": "Hsin-Wei Kao",
+                "ch": "高新惟"
+            },
+            "inst": {
+                "en": "Institute of Computer Science and Engineering",
+                "ch": "資訊科學與工程研究所"
+            },
+            "research": "[研究方向]",
+            "join": "JUL 2016",
+            "detail": false,
+            "about": "[About me]",
+            "email": "",
+            "github": ""
+        }, {
+            "img": "/Member/yichiatsai.jpg",
+            "name": {
+                "en": "Yi-Chia Tsai",
+                "ch": "蔡一嘉"
+            },
+            "inst": {
+                "en": "Institute of Network Engineering",
+                "ch": "網路工程研究所"
+            },
+            "research": "[研究方向]",
+            "join": "JUL 2016",
+            "detail": false,
+            "about": "[About me]",
+            "email": "",
+            "github": ""
+        }, {
+            "img": "/Member/yudazheng.jpg",
+            "name": {
+                "en": "Yu-Da Zheng",
+                "ch": "鄭裕達"
+            },
+            "inst": {
+                "en": "Institute of Computer Science and Engineering",
+                "ch": "資訊科學與工程研究所"
+            },
+            "research": "[研究方向]",
+            "join": "JUL 2016",
+            "detail": false,
+            "about": "[About me]",
+            "email": "",
+            "github": ""
+        }
+    ]
+}

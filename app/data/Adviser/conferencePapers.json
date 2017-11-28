@@ -1,0 +1,424 @@
+{
+    "data": [{
+            "authors": "T.-M. Huang, Y. Ren, K. C.-J. Lin and Y.-C. Tseng",
+            "title": "On Scalable Service Function Chaining with O(1) Flowtable Entriess",
+            "publish": "International Conference on Computer Communications (INFOCOM)",
+            "unit": "IEEE",
+            "date": "2018",
+            "link": "#"
+        }, {
+            "authors": "T.-W. Huang, Y. Ren, K. C.-J. Lin and Y.-C. Tseng",
+            "title": "r-Hint: A Message-Efficient Random Access Response for mMTC in 5G Networks",
+            "publish": "International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)",
+            "unit": "IEEE",
+            "date": "OCT 2017",
+            "link": "#"
+        }, {
+            "authors": "C.-L. Chan, H.-M. Tsai and K. C.-J. Lin",
+            "title": "POLI: Long-Range Visible Light Communications Using Polarized Light Intensity Modulation",
+            "publish": "International Conference on Mobile Systems, Applications, and Services (MobiSys)",
+            "unit": "ACM",
+            "date": "JUN 2017",
+            "link": "https://dl.acm.org/citation.cfm?id=3081353"
+        }, {
+            "authors": "Y.-L. Wei, C.-J. Huang, H.-M. Tsai and K. C.-J. Lin",
+            "title": "CELLI: Indoor Positioning using Polarized Sweeping Light Beam",
+            "publish": "International Conference on Mobile Systems, Applications, and Services (MobiSys)",
+            "unit": "ACM",
+            "date": "JUN 2017",
+            "link": "https://dl.acm.org/citation.cfm?id=3081352"
+        }, {
+            "authors": "K.-C. Hsu, K. C.-J. Lin and H.-Y. Wei",
+            "title": "Inter-Client Interference Cancellation for Full-Duplex Networks",
+            "publish": "International Conference on Computer Communications (INFOCOM)",
+            "unit": "IEEE",
+            "date": "MAY 2017",
+            "link": "http://ieeexplore.ieee.org/document/8057212/"
+        }, {
+            "authors": "C.-H. Lin, Y.-T. Chen, K. C.-J. Lin and W.-T. Chen",
+            "title": "acPad: Enhancing Channel Utilization for 802.11ac Using Packet Padding",
+            "publish": "International Conference on Computer Communications (INFOCOM)",
+            "unit": "IEEE",
+            "date": "MAY 2017",
+            "link": "http://ieeexplore.ieee.org/document/8057127/"
+        }, {
+            "authors": "Y.-L. Wei, H.-I. Wu, H.-C. Wang, H.-M. Tsai, K. C.-J. Lin, R. Boubezari, H. L. Minh and Z. Ghassemlooy",
+            "title": "LiCompass: Extracting Orientation from Polarized Light",
+            "publish": "International Conference on Computer Communications (INFOCOM)",
+            "unit": "IEEE",
+            "date": "MAY 2017",
+            "link": "http://ieeexplore.ieee.org/document/8057100/"
+        }, {
+            "authors": "J.-Y. Chang, K.-Y. Lee, K. C.-J. Lin and W. Hsu",
+            "title": "Location-Independent WiFi Action Recognition via Vision-based Methods",
+            "publish": "Multimedia Conference (Short paper)",
+            "unit": "ACM",
+            "date": "DEC 2016",
+            "link": "https://dl.acm.org/citation.cfm?id=2967203"
+        }, {
+            "authors": "K.-C. Hsu, K. C.-J. Lin and H.-Y. Wei",
+            "title": "Full-Duplex Delay-and-Forward Relaying",
+            "publish": "International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc)",
+            "unit": "ACM",
+            "date": "JUL 2016",
+            "link": "https://dl.acm.org/citation.cfm?id=2942370"
+        }, {
+            "authors": "W.-L. Shen, K. C.-J. Lin, M.-S. Chen and K. Tan",
+            "title": "Client as a First-Class Citizen: Practical User-Centric Network MIMO Clustering",
+            "publish": "International Conference on Computer Communications (INFOCOM)",
+            "unit": "IEEE",
+            "date": "APR 2016",
+            "link": "http://ieeexplore.ieee.org/document/7524482/"
+        }, {
+            "authors": "T.-W. Kuo, B.-H. Liou, K. C.-J. Lin and M.-J. Tsai",
+            "title": "Deploying Chains of Virtual Network Functions: On the Relation Between Link and Server Usage",
+            "publish": "International Conference on Computer Communications (INFOCOM)",
+            "unit": "IEEE",
+            "date": "APR 2016",
+            "link": "http://ieeexplore.ieee.org/document/7524565/"
+        }, {
+            "authors": "J.-Y. Chang, K.-Y. Lee, K. C.-J. Lin and W. Hsu",
+            "title": "Wi-Fi Action Recognition via Vision-Based Methods",
+            "publish": "Internatinal Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+            "unit": "IEEE",
+            "date": "MAR 2016",
+            "link": "http://ieeexplore.ieee.org/document/7472184/"
+        }, {
+            "authors": "S.-Y. Chen, T.-F. Huang, K. C.-J. Lin, Y.-W. P. Hong and A. Sabharwal",
+            "title": "Probabilistic-based Adaptive Full-Duplex and Half-Duplex Medium Access Control",
+            "publish": "Global Communications Conference (GLOBECOM)",
+            "unit": "IEEE",
+            "date": "DEC 2015",
+            "link": "http://ieeexplore.ieee.org/document/7876866/"
+        }, {
+            "authors": "T.-C. Chang, C.-H. Lin, K. C.-J. Lin and W.-T. Chen",
+            "title": "Load-Balanced Sensor Grouping for IEEE 802.11 ah Networks",
+            "publish": "Global Communications Conference (GLOBECOM)",
+            "unit": "IEEE",
+            "date": "DEC 2015",
+            "link": "http://ieeexplore.ieee.org/document/7417476/"
+        }, {
+            "authors": "M. Khan, A. Bhartia, L. Qiu and K. C.-J. Lin",
+            "title": "Smart Retransmission and Rate Adaptation in WiFi",
+            "publish": "International Conference on Network Protocols (ICNP)",
+            "unit": "IEEE",
+            "date": "NOV 2015",
+            "link": "http://ieeexplore.ieee.org/document/7437116/"
+        }, {
+            "authors": "C.-J. Huang, Y.-L. Wei, C. Fu, W.-H. Shen, H.-M. Tsai and K. C.-J. Lin",
+            "title": "LiBeamScanner: Accurate Indoor Positioning with Sweeping Light Beam",
+            "publish": "Workshop on Visible Light Communication Systems",
+            "unit": "ACM",
+            "date": "SEP 2015",
+            "link": "https://dl.acm.org/citation.cfm?id=2801079"
+        }, {
+            "authors": "Y.-L. Chien, K. C.-J. Lin and M.-S. Chen",
+            "title": "Machine Learning Based Rate Adaptation with Elastic Feature Selection for HTTP Streaming",
+            "publish": "International Conference on Multimedia and Expo (ICME)",
+            "unit": "IEEE",
+            "date": "JUN 2015",
+            "link": "http://ieeexplore.ieee.org/document/7177418/"
+        }, {
+            "authors": "Y.-C. Hsu, K. C.-J. Lin and W.-T. Chen",
+            "title": "Client-AP Association for Multiuser MIMO Networks",
+            "publish": "International Conference on Communications (ICC)",
+            "unit": "IEEE",
+            "date": "JUN 2015",
+            "link": "http://ieeexplore.ieee.org/document/7248644/"
+        }, {
+            "authors": "H.-Y. Lee, H.-M. Lin, Y.-L. Wei, H.-I. Wu, H.-M. Tsai and K. C.-J. Lin",
+            "title": "RollingLight: Enabling Line-of-Sight Light-to-Camera Communications",
+            "publish": "International Conference on Mobile Systems, Applications, and Services (MobiSys)",
+            "unit": "ACM",
+            "date": "MAY 2015",
+            "link": "https://dl.acm.org/citation.cfm?id=2742651"
+        }, {
+            "authors": "B.-X. Wu, K. C.-J. Lin, K.-C. Hsu and H.-Y. Wei",
+            "title": "HybridCast: Joint Multicast-Unicast Design for Multiuser MIMO Networks",
+            "publish": "International Conference on Computer Communications (INFOCOM)",
+            "unit": "IEEE",
+            "date": "APR 2015",
+            "link": "http://ieeexplore.ieee.org/document/7218553/"
+        }, {
+            "authors": "W.-L. Shen, K. C.-J. Lin, M.-S. Chen and K. Tan",
+            "title": "Sieve: Scalable User Grouping for Large MU-MIMO Systems",
+            "publish": "International Conference on Computer Communications (INFOCOM)",
+            "unit": "IEEE",
+            "date": "APR 2015",
+            "link": "http://ieeexplore.ieee.org/document/7218581/"
+        }, {
+            "authors": "P.-L. Tsai, K. C.-J. Lin and W.-T. Chen",
+            "title": "Downlink Radio Resource Allocation with Carrier Aggregation in MIMO LTE-Advanced Systems",
+            "publish": "International Conference on Communications (ICC)",
+            "unit": "IEEE",
+            "date": "JUN 2014",
+            "link": "http://ieeexplore.ieee.org/document/6883671/"
+        }, {
+            "authors": "H.-C. Li, K. C.-J. Lin and K.-L. Hua",
+            "title": "On Enhancing Revenue of Wireless Video Multicast",
+            "publish": "International Conference on Internet of Things (iThings)",
+            "unit": "IEEE",
+            "date": "SEP 2014",
+            "link": "http://ieeexplore.ieee.org/document/7059646/"
+        }, {
+            "authors": "C.-H. Lin, K. C.-J. Lin and W.-T. Chen",
+            "title": "Rate Adaptation for Highly Dynamic Body Area Networks",
+            "publish": "International Conference on Cyber, Physical and Social Computing (CPSCom)",
+            "unit": "IEEE",
+            "date": "SEP 2014",
+            "link": "http://ieeexplore.ieee.org/document/7059707/"
+        }, {
+            "authors": "B.-S. Chen, K. C.-J. Lin and H.-Y. Wei",
+            "title": "Harnessing Receive Diversity in Distributed Multi-User MIMO Networks",
+            "publish": "SIGCOMM - Poster",
+            "unit": "ACM",
+            "date": "AUG 2013",
+            "link": "https://dl.acm.org/citation.cfm?id=2491720"
+        }, {
+            "authors": "W.-L. Shen, K. C.-J. Lin and M.-S. Chen",
+            "title": "An Empirical Study of Analog Channel Feedback",
+            "publish": "SIGCOMM - Poster",
+            "unit": "ACM",
+            "date": "AUG 2013",
+            "link": "https://dl.acm.org/citation.cfm?doid=2486001.2491716"
+        }, {
+            "authors": "T.-W. Kuo, K. C.-J. Lin and M.-J. Tsai",
+            "title": "Maximizing Submodular Set Function with Connectivity Constraint: Theory and Application to Networks",
+            "publish": "International Conference on Computer Communications (INFOCOM)",
+            "unit": "IEEE",
+            "date": "APR 2013",
+            "link": "https://dl.acm.org/citation.cfm?id=2491716"
+        }, {
+            "authors": "H.-C. Li, K. C.-J. Lin, K.-L. Hua and G.-M. Chiu",
+            "title": "Dependency-Aware Quality-Differentiated Wireless Video Multicast",
+            "publish": "Wireless Communications and Networking Conference (WCNC)",
+            "unit": "IEEE",
+            "date": "APR 2013",
+            "link": "http://ieeexplore.ieee.org/document/6554906/"
+        }, {
+            "authors": "C.-C. Hsu, Y.-A. Liang, J. Gomez, C.-F. Chou and K.- C.-J. Lin",
+            "title": "Distributed Flexible Channel Assignment in WLANs",
+            "publish": "Wireless Communications and Networking Conference (WCNC)",
+            "unit": "IEEE",
+            "date": "APR 2013",
+            "link": "http://ieeexplore.ieee.org/abstract/document/6554613/"
+        }, {
+            "authors": "C.-S. Shih, L.-J. Chen, K. C.-J. Lin, W.-H. Chung",
+            "title": "Open Information Gateway for Disaster Management",
+            "publish": "International Conference on Communications (ICC) Workshop",
+            "unit": "IEEE",
+            "date": "DEC 2012",
+            "link": "http://ieeexplore.ieee.org/document/6364969/"
+        }, {
+            "authors": "Y-Y Chen, C.-C. Hsu, C.-F. Chou and K. C.-J. Lin",
+            "title": "On Detecting Mobile Target with Deadline Constraint in Mobile Sensor Networks",
+            "publish": "Sensors",
+            "unit": "IEEE",
+            "date": "OCT 2012",
+            "link": "http://ieeexplore.ieee.org/document/6411422/"
+        }, {
+            "authors": "W.-L. Shen, Y.-C. Tung, K.-C. Lee, K. C.-J. Lin, S. Dollakota, D. Katabi and M.-S. Chen",
+            "title": "Rate Adaptation for 802.11 Multiuser MIMO Networks",
+            "publish": "International Conference on Mobile Computing and Networking (MOBICOM) - Best Paper Nomination",
+            "unit": "ACM",
+            "date": "AUG 2012",
+            "link": "https://dl.acm.org/citation.cfm?id=2348551"
+        }, {
+            "authors": "K. C.-J. Lin, C.-W. Chen and C.-F. Chou",
+            "title": "Preference-Aware Content Dissemination in Opportunistic Mobile Social Networks",
+            "publish": "International Conference on Computer Communications (INFOCOM)",
+            "unit": "IEEE",
+            "date": "MAR 2012",
+            "link": "http://ieeexplore.ieee.org/document/6195573/"
+        }, {
+            "authors": "Y.-J. Chuang and K. C.-J. Lin",
+            "title": "Cellular Traffic Offloading through Community-based Opportunistic Dissemination",
+            "publish": "Wireless Communications and Networking Conference (WCNC)",
+            "unit": "IEEE",
+            "date": "APR 2012",
+            "link": "http://ieeexplore.ieee.org/document/6214356/"
+        }, {
+            "authors": "K. C.-J. Lin, S.-P. Chou and C.-F. Chou",
+            "title": "Video Multicast with Heterogeneous User Interests in Multi-Rate Wireless Networks",
+            "publish": "Wireless Communications and Networking Conference (WCNC)",
+            "unit": "IEEE",
+            "date": "APR 2012",
+            "link": "http://ieeexplore.ieee.org/document/6214136/"
+        }, {
+            "authors": "C.-Y. Ku, Y.-D. Lin, Y.-C. Lai, P.-H. Li and K C.-J. Lin",
+            "title": "Real Traffic Replay over WLAN with Environment Emulation",
+            "publish": "Wireless Communications and Networking Conference (WCNC)",
+            "unit": "IEEE",
+            "date": "APR 2012",
+            "link": "http://ieeexplore.ieee.org/document/6214199/"
+        }, {
+            "authors": "K. C.-J. Lin and S.-T. Lee",
+            "title": "Relay-based Video Multicast with Network Coding in Multi-Rate Wireless Networks",
+            "publish": "Global Communications Conference (GLOBECOM)",
+            "unit": "IEEE",
+            "date": "DEC 2011",
+            "link": "http://ieeexplore.ieee.org/document/6133677/"
+        }, {
+            "authors": "Y.-C. Tung, K. C.-J. Lin and C.-F. Chou",
+            "title": "Bandwidth-Aware Replica Placement for Peer-to-Peer Storage Systems",
+            "publish": "Global Communications Conference (GLOBECOM)",
+            "unit": "IEEE",
+            "date": "DEC 2011",
+            "link": "http://ieeexplore.ieee.org/document/6134151/"
+        }, {
+            "authors": "C.-W. Chou and K. C.-J. Lin",
+            "title": "Learning-based Dynamic Channel Selection for Opportunistic Spectrum Access",
+            "publish": "Workshop on Recent Advances in Cognitive Communications and Networking (IEEE GLOBECOM Workshop)",
+            "unit": "IEEE",
+            "date": "DEC 2011",
+            "link": "http://ieeexplore.ieee.org/document/6162601/"
+        }, {
+            "authors": "K. C.-J. Lin, S. Gollakota and D. Katabi",
+            "title": "Random Access Heterogeneous MIMO Networks",
+            "publish": "SIGCOMM",
+            "unit": "ACM",
+            "date": "AUG 2011",
+            "link": "https://dl.acm.org/citation.cfm?id=2018454"
+        }, {
+            "authors": "C.-W. Chou, K. C-.J. Lin and T.-H. Lee",
+            "title": "On Efficient Multipolling with Various Service Intervals for IEEE 802.11e WLANs",
+            "publish": "International Wireless Communications and Mobile Computing Conference (IWCMC)",
+            "unit": "IEEE",
+            "date": "JUL 2011",
+            "link": "http://ieeexplore.ieee.org/document/5982825/"
+        }, {
+            "authors": "C.-C. Hsu, W.-L. Shen, K. C.-J. Lin and C.-F. Chou",
+            "title": "Bulldozer: A Cooperative P2P-based Distribution Platform for User-Centric Content Dissemination",
+            "publish": "International Conference on Communications (ICC)",
+            "unit": "IEEE",
+            "date": "JUN 2011",
+            "link": "http://ieeexplore.ieee.org/document/5962721/"
+        }, {
+            "authors": "M. C.-C. Hung and K. C.-J. Lin",
+            "title": "Sink Deployment in Wireless Surveillance Systems",
+            "publish": "Wireless Communications and Networking Conference (WCNC)",
+            "unit": "IEEE",
+            "date": "APR 2011",
+            "link": "http://ieeexplore.ieee.org/document/5779471/"
+        }, {
+            "authors": "Y.-C. Tung and K. C.-J. Lin",
+            "title": "Location-Assisted Energy-Efficient Content Search for Mobile Peer-to-Peer Networks",
+            "publish": "International Conference on Pervasive Computing and Communications Workshops (PerCom Workshop)",
+            "unit": "IEEE",
+            "date": "MAR 2011",
+            "link": "http://ieeexplore.ieee.org/document/5766937/"
+        }, {
+            "authors": "M. C.-C. Hung, K. C.-J. Lin, C.-C. Hsu and C.-F. Chou",
+            "title": "Enhancing Network-Lifetime Using Opportunistic Routing in Wireless Sensor Networks",
+            "publish": "International Conference on Computer Communication Networks (ICCCN)",
+            "unit": "IEEE",
+            "date": "AUG 2010",
+            "link": "http://ieeexplore.ieee.org/document/5560128/"
+        }, {
+            "authors": "K. C.-J. Lin, S.-T. Shen and C.-F. Chou",
+            "title": "Rate-Loss based Channel Assignment in Multi-Rate Wireless Mesh Networks",
+            "publish": "Vehicular Technology Conference (VTC)",
+            "unit": "IEEE",
+            "date": "MAY 2010",
+            "link": "http://ieeexplore.ieee.org/document/5493695/"
+        }, {
+            "authors": "T.-G. Li, C.-C. Hsu, C.-F. Chou and K. C.-J. Lin",
+            "title": "On Reliable Transmission by Adaptive Network Coding in Wireless Sensor Networks",
+            "publish": "International Conference on Communications (ICC)",
+            "unit": "IEEE",
+            "date": "JUN 2009",
+            "link": "http://ieeexplore.ieee.org/document/5199247/"
+        }, {
+            "authors": "C.-C Hsu, K.-F. Lai, C.-F. Chou and K. C.-J. Lin",
+            "title": "ST-MAC: Spatial-Temporal MAC Scheduling for Underwater Sensor Networks",
+            "publish": "International Conference on Computer Communications (INFOCOM)",
+            "unit": "IEEE",
+            "date": "APR 2009",
+            "link": "http://ieeexplore.ieee.org/document/5062103/"
+        }, {
+            "authors": "C.-C Hsu, C.-F. Chou, and K. C.-J. Lin",
+            "title": "Virtual Domain and Coordinate Routing in Wireless Sensor Networks",
+            "publish": "Wireless Communications and Networking Conference (WCNC)",
+            "unit": "IEEE",
+            "date": "APR 2009",
+            "link": "http://ieeexplore.ieee.org/document/4918020/"
+        }, {
+            "authors": "K. C.-J. Lin, N. Kushman and D. Katabi",
+            "title": "ZipTx: Harnessing Partial Packets in 802.11 Networks",
+            "publish": "International Conference on Mobile Computing and Networking (MOBICOM)",
+            "unit": "ACM",
+            "date": "SEP 2008",
+            "link": "https://dl.acm.org/citation.cfm?id=1409984"
+        }, {
+            "authors": "S. Kandula, K. C.-J. Lin, T. Badrikhanli and D. Katabi",
+            "title": "FatVAP: Aggregating AP Backhaul Capacity to Maximize Throughput",
+            "publish": "Networked Systems Design and Implementation (NSDI)",
+            "unit": "USENIX",
+            "date": "SEP 2008",
+            "link": "https://dl.acm.org/citation.cfm?id=1387589.1387596"
+        }, {
+            "authors": "K. C.-J. Lin, S.-H. Lin and C.-F. Chou",
+            "title": "Performance Study of Optimal Routing and Channel Assignment in Wireless Mesh Networks",
+            "publish": "Global Communications Conference (GLOBECOM)",
+            "unit": "IEEE",
+            "date": "NOV 2007",
+            "link": "http://ieeexplore.ieee.org/document/4411824/"
+        }, {
+            "authors": "K. C.-J. Lin, Y.-T. Chang, S.-C. Tsai and C.-F. Chou",
+            "title": "Enabling Keyword Search and Similarity Search in Small-World-based P2P Systems",
+            "publish": "International Conference on Computer Communications and Networks (ICCCN)",
+            "unit": "IEEE",
+            "date": "AUG 2007",
+            "link": "http://ieeexplore.ieee.org/document/4317806/"
+        }, {
+            "authors": "K. C.-J. Lin, Y.-T. Chang, S.-C. Tsai and C.-F. Chou",
+            "title": "Distributed Social-based Overlay Adaptation for Unstructured P2P Networks",
+            "publish": "Global Internet Symposium (in conjunction with IEEE INFOCOM'07)",
+            "unit": "IEEE",
+            "date": "MAY 2007",
+            "link": "http://ieeexplore.ieee.org/document/4301422/"
+        }, {
+            "authors": "K. C.-J. Lin and C.-F. Chou",
+            "title": "Route-Aware Load-Balanced Resource Allocation for Wireless Mesh Networks",
+            "publish": "Wireless Communications and Networking Conference (WCNC)",
+            "unit": "IEEE",
+            "date": "MAR 2007",
+            "link": "http://ieeexplore.ieee.org/document/4224817/"
+        }, {
+            "authors": "K. C.-J. Lin, P.-L. Chou and C.-F. Chou",
+            "title": "HCDD: Hierarchical Cluster-based Data Dissemination in Wireless Sensor Networks with Mobile Sink",
+            "publish": "International Wireless Communications & Mobile Computing Conference (IWCMC)",
+            "unit": "IWCMC",
+            "date": "JUL 2006",
+            "link": "https://dl.acm.org/citation.cfm?id=1143787"
+        }, {
+            "authors": "C.-F. Chou, M.-W Hsu and K. C.-J. Lin",
+            "title": "A trend-loss-density-based differential scheme in wired-cum-wireless networks",
+            "publish": "International Wireless Communications & Mobile Computing Conference (IWCMC)",
+            "unit": "IWCMC",
+            "date": "JUL 2006",
+            "link": "https://dl.acm.org/citation.cfm?id=1143597"
+        }, {
+            "authors": "K. C.-J. Lin, Y.-H. Ni, H.-P. Suen and C.-F. Chou",
+            "title": "Cooperative Popularity-Aware MPEG-4/MPEG-7 Streaming Proxy System",
+            "publish": "International Symposium on Consumer Electronics (ISCE)",
+            "unit": "IEEE",
+            "date": "JUN 2005",
+            "link": "http://ieeexplore.ieee.org/document/1502340/"
+        }, {
+            "authors": "C.-F. Chou, K. C.-J. Lin and C.-C. Tsai",
+            "title": "Traffic-aware Resource Management Schemes in Heterogeneous Wireless Cellular Networks",
+            "publish": "International Conference on Wireless Networks, Communications, and Mobile Computing (WIRELESSCOM)",
+            "unit": "IEEE",
+            "date": "JUN 2005",
+            "link": "http://ieeexplore.ieee.org/document/1549503/"
+        }, {
+            "authors": "K. C.-J. Lin and C.-F. Chou",
+            "title": "Hybrid WLAN for Data Dissemination Applications",
+            "publish": "IEEE International Symposium on Modeling, Analysis and Simulation of Computer and Telecommunication Systems (MASCOTS)",
+            "unit": "IEEE",
+            "date": "OCT 2004",
+            "link": "http://ieeexplore.ieee.org/document/1348188/"
+        }
+    ]
+}

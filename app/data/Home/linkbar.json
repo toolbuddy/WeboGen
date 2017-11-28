@@ -1,0 +1,28 @@
+{
+    "data": [{
+            "name": {
+                "en": "National Chiao Tung University",
+                "ch": "國立交通大學"
+            },
+            "link": "http://www.nctu.edu.tw"
+        }, {
+            "name": {
+                "en": "College of Computer Science NCTU",
+                "ch": "國立交通大學資訊學院"
+            },
+            "link": "http://www.ccs.nctu.edu.tw"
+        }, {
+            "name": {
+                "en": "Department of Computer Science NCTU",
+                "ch": "國立交通大學資訊工程學系"
+            },
+            "link": "http://www.cs.nctu.edu.tw"
+        }, {
+            "name": {
+                "en": "Computer Center NCTU CS",
+                "ch": "國立交通大學資訊工程學系計算機中心"
+            },
+            "link": "http://www.cs.nctu.edu.tw/cchonor"
+        }
+    ]
+}

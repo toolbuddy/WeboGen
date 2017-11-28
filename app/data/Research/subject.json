@@ -1,0 +1,16 @@
+{
+    "data": [{
+            "title": "SDN-based WLAN designs",
+            "img": "Research/Subject/research_1.png",
+            "content": "Multi-Input Multi-Output (MIMO) technology is emerging as the default choice for wireless networks. The wireless industry is continuously pushing toward increasing the number of antennas per device. Simultaneously, there is a proliferation of wireless devices with diverse form factors. These range from large devices, like desktops and laptops, to small devices, like temperature or light sensors, and a whole range of devices in between, like smartphones and tablets. The physical size of these devices intrinsically limits the maximum number of antennas that they can support. The combination of these two conflict trends - a growth in the maximum number of antennas per device, and an increase in device diversity - means that future wireless networks will be populated by heterogeneous APs and clients supporting different MIMO capabilities. Our research goal is to design multiuser MIMO systems that enable efficient medium sharing among users with heterogeneous hardware capabilities and dynamic channel conditions."
+        }, {
+            "title": "RF-based sensing",
+            "img": "Research/Subject/research_2.png",
+            "content": "With the growing popularity of IoT applications, human increasingly need a more friendly and flexible interface to interact with \"things\" and be understand by \"things\". Conventional designs heavily rely on camera or wearable/tangible devices to sense human behaviors. Those approaches, however, have a key concern about privacy and might not be feasible all the time. RF-based sensing, hence, gains lots of attention nowadays. By understanding the tiny variation of RF signals, it is possible to sense the small changes in environments. This technique creates several interesting IoT applications that help develop human augmentation. For example, human can perform gesture to remotely control different machines in home without equipping any physical devices. Or, home care can be realized without introducing the intrusion into the privacy of individuals. We hope to leverage those rich RF signals to look for new IoT applications."
+        }, {
+            "title": "Wireless multimedia systems",
+            "img": "Research/Subject/research_3.png",
+            "content": "Statistics have shown that 50% of US Internet traffic is video streamed from Netflix and YouTube. How to efficiently stream a large amount of video traffic while providing quality of service is still one of the most challenging network problems. We are developing mobile video applications and new architectures to adapt to dynamic network conditions and improve video experience on wireless mobile devices. On the other hand, social networks, such as Facebook and Twitter, is a new form of multimedia networks connecting people on the Internet. We are also interested in exploiting networking concepts and skills to understand social behaviors and study how to distribute influential information over social networks."
+        }
+    ]
+}

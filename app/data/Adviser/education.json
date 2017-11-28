@@ -1,0 +1,40 @@
+{
+    "data": [{
+            "date": "SEP 2003 - JUN 2009",
+            "univ": {
+                "en": "National Taiwan University",
+                "ch": "國立臺灣大學"
+            },
+            "edu": {
+                "en": "Institute of Networking and Multimedia",
+                "ch": "網路與多媒體研究所"
+            },
+            "deg": {
+                "en": "Ph.D",
+                "ch": "博士"
+            }, 
+            "place": {
+                "en": "Taipei City, Taiwan",
+                "ch": "臺灣臺北市"
+            }
+        }, {
+            "date": "SEP 1999 - JUN 2003",
+            "univ": {
+                "en": "National Tsing Hua University",
+                "ch": "國立清華大學"
+            },
+            "edu": {
+                "en": "Department of Computer Science",
+                "ch": "資訊工程學系"
+            },
+            "deg": {
+                "en": "B.S.",
+                "ch": "學士"
+            },
+            "place": {
+                "en": "Hsinchu City, Taiwan",
+                "ch": "臺灣新竹市"
+            }
+        }
+    ]
+}

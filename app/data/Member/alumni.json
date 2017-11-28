@@ -1,0 +1,232 @@
+{
+    "data": [{
+            "name": {
+                "en": "Tung-Wei Kuo",
+                "ch": "郭桐惟"
+            },
+            "period": [
+                "DEC 2011", 
+                "JUN 2015"
+            ],
+            "thesis": {
+                "en": "",
+                "ch": ""
+            },
+            "outcomes": {
+                "en": "Assistant Professor, National Chengchi University",
+                "ch": "國立政治大學資訊科學系助理教授"
+            },
+            "img": "/Member/tungweikuo.jpg",
+            "cv": "http://sites.google.com/site/tungweikuo/home"
+        }, {
+            "name": {
+                "en": "Wei-Liang Shen",
+                "ch": "沈威良"
+            },
+            "period": [
+                "JUN 2010",
+                "JUN 2015"
+            ],
+            "thesis": {
+                "en": "",
+                "ch": ""
+            },
+            "outcomes": {
+                "en": "Senior Engineer, MediaTek",
+                "ch": "聯發科技資深工程師"
+            },
+            "img": "/Member/weiliangshen.jpg",
+            "cv": "http://nms.citi.sinica.edu.tw/wlshen/index.php"
+        }, {
+            "name": {
+                "en": "Mike Cheng",
+                "ch": "鄭學鴻"
+            },
+            "period": [
+                "JUL 2013",
+                "AUG 2014"
+            ],
+            "thesis": {
+                "en": "",
+                "ch": ""
+            },
+            "outcomes": {
+                "en": "M.S. Student, Carnegie Mellon University",
+                "ch": "美國卡內基美隆大學碩士生"
+            },
+            "img": "/Member/hsuehhungcheng.jpg",
+            "cv": "http://nms.citi.sinica.edu.tw/mikecheng"
+        }, {
+            "name": {
+                "en": "Yu-Chih Tung",
+                "ch": "董昱志"
+            },
+            "period": [
+                "JUL 2010",
+                "AUG 2012"
+            ],
+            "thesis": {
+                "en": "",
+                "ch": ""
+            },
+            "outcomes": {
+                "en": "Ph.D. Student, University of Michigan",
+                "ch": "美國密西根大學博士生"
+            },
+            "img": "/Member/yuchihtung.jpg",
+            "cv": "http://yctung.github.io"
+        }, {
+            "name": {
+                "en": "Mike Hsu",
+                "ch": "Mike Hsu"
+            },
+            "period": [
+                "JUL 2011",
+                "AUG 2012"
+            ],
+            "thesis": {
+                "en": "",
+                "ch": ""
+            },
+            "outcomes": {
+                "en": "M.S. Student, Carnegie Mellon University",
+                "ch": "美國卡內基美隆大學碩士生"
+            },
+            "img": "/Member/mikehsu.jpg",
+            "cv": ""
+        }, {
+            "name": {
+                "en": "Tommy Lee",
+                "ch": "黎光哲"
+            },
+            "period": [
+                "JUL 2011",
+                "AUG 2012"
+            ],
+            "thesis": {
+                "en": "",
+                "ch": ""
+            },
+            "outcomes": {
+                "en": "M.S. Student, University of New York",
+                "ch": "美國紐約大學碩士生"
+            },
+            "img": "/Member/tommylee.jpg",
+            "cv": ""
+        }, {
+            "name": {
+                "en": "Johnny Chuang",
+                "ch": "Yung-Jen Chuang"
+            },
+            "period": [
+                "MAY 2011",
+                "AUG 2012"
+            ],
+            "thesis": {
+                "en": "",
+                "ch": ""
+            },
+            "outcomes": {
+                "en": "M.S. Student, Columbia University",
+                "ch": "美國哥倫比亞大學碩士生"
+            },
+            "img": "/Member/yungjenchuang.jpg",
+            "cv": ""
+        }, {
+            "name": {
+                "en": "Kuan-Yu Chen",
+                "ch": "Kuan-Yu Chen"
+            },
+            "period": [
+                "JUN 2010",
+                "JUL 2011"
+            ],
+            "thesis": {
+                "en": "",
+                "ch": ""
+            },
+            "outcomes": {
+                "en": "Postdoctoral, Georgia Institute of Technology",
+                "ch": "美國喬治亞理工學院博士後研究生"
+            },
+            "img": "elliot.jpg",
+            "cv": ""
+        }, {
+            "name": {
+                "en": "Chien-Chun Hung",
+                "ch": "洪健淳"
+            },
+            "period": [
+                "JUN 2010",
+                "MAY 2011"
+            ],
+            "thesis": {
+                "en": "",
+                "ch": ""
+            },
+            "outcomes": {
+                "en": "Ph.D. Student, University of Southern California (USC)",
+                "ch": "美國南加州大學博士生"
+            },
+            "img": "/Member/chienchunhung.jpg",
+            "cv": "http://www.csie.ntu.edu.tw/~r96033/doku.php/home"
+        }, {
+            "name": {
+                "en": "Chin-Wen Chou",
+                "ch": "周勁文"
+            },
+            "period": [
+                "JAN 2010",
+                "MAY 2011"
+            ],
+            "thesis": {
+                "en": "",
+                "ch": ""
+            },
+            "outcomes": {
+                "en": "HTC Corporation",
+                "ch": "宏達國際電子股份有限公司"
+            },
+            "img": "/Member/chinwenchou.jpg",
+            "cv": ""
+        }, {
+            "name": {
+                "en": "Chung-Shiuan Chen",
+                "ch": "陳仲軒"
+            },
+            "thesis": {
+                "en": "",
+                "ch": ""
+            },
+            "period": [
+                "APR 2010",
+                "MAR 2011"
+            ],
+            "outcomes": {
+                "en": "Institute for Information Industry (III)",
+                "ch": "財團法人資訊工業策進會"
+            },
+            "img": "/Member/chungshiuanchen.jpg",
+            "cv": ""
+        }, {
+            "name": {
+                "en": "Po-Chia Lai",
+                "ch": "Po-Chia Lai"
+            },
+            "period": [
+                "MAR 2010",
+                "JUL 2010"
+            ],
+            "thesis": {
+                "en": "",
+                "ch": ""
+            },
+            "outcomes": {
+                "en": "M.S. Student, University of Michigan",
+                "ch": "美國密西根大學碩士生"
+            },
+            "img": "/Member/pochialai.jpg",
+            "cv": ""
+        }
+    ]
+}

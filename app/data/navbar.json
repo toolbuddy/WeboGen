@@ -1,0 +1,34 @@
+{
+    "data": [{
+            "name": {
+                "en": "Adviser",
+                "ch": "指導教授"
+            },
+            "link": "/adviser"
+        }, {
+            "name": {
+                "en": "Research",
+                "ch": "研究方向"
+            },
+            "link": "/research"
+        }, {
+            "name": {
+                "en": "Member",
+                "ch": "研究成員"
+            },
+            "link": "/member"
+        }, {
+            "name": {
+                "en": "Resource",
+                "ch": "研究資源"
+            },
+            "link": "/resource"
+        }, {
+            "name": {
+                "en": "Courses",
+                "ch": "課程資訊"
+            },
+            "link": "/courses"
+        }
+    ]
+}

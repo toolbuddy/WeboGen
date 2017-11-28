@@ -1,0 +1,254 @@
+{
+    "data": [{
+            "authors": "K. C.-J. Lin, W.-L. Shen, M.-S. Chen and K. Tan",
+            "title": "User-Centric Network MIMO with Dynamic Clustering",
+            "publish": "Transactions on Networking",
+            "vol": "25",
+            "no": "3",
+            "pp": "1910-1923",
+            "date": "JUN 2017",
+            "unit": "IEEE/ACM",
+            "link": "http://ieeexplore.ieee.org/document/7876774/"
+        }, {
+            "authors": "C.-H. Lin, K. C.-J. Lin and W.-T. Chen",
+            "title": "Channel-Aware Polling-based MAC Protocol for Body Area Networks: Design and Analysis",
+            "publish": "Sensors Journal",
+            "vol": "17",
+            "no": "9",
+            "pp": "2936-2948",
+            "date": "MAY 2017",
+            "unit": "IEEE",
+            "link": "http://ieeexplore.ieee.org/document/7857679/"
+        }, {
+            "authors": "S.-Y. Chen, T.-F. Huang, K. C-.J. Lin, Y.-W. P. Hong and A. Sabharwal",
+            "title": "Probabilistic Medium Access Control for Full-Duplex Networks with Half-Duplex Clients",
+            "publish": "Transactions on Wireless Communications",
+            "vol": "16",
+            "no": "4",
+            "pp": "2627-2640",
+            "date": "APR 2017",
+            "unit": "IEEE",
+            "link": "http://ieeexplore.ieee.org/document/7876866/"
+        }, {
+            "authors": "S.-L. Chiu, K. C.-J. Lin, G.-X. Lin and H.-Y. Wei",
+            "title": "Empowering Device-to-Device Networks with Cross-Link Interference Management",
+            "publish": "Transactions on Mobile Computing",
+            "vol": "16",
+            "no": "4",
+            "pp": "950-963",
+            "date": "APR 2017",
+            "unit": "IEEE",
+            "link": "http://ieeexplore.ieee.org/document/7494644/"
+        }, {
+            "authors": "W.-L. Shen, K. C.-J. Lin, W.-J. Cheng, L. Qiu and M.-S. Chen",
+            "title": "Concurrent Packet Recovery for Distributed Uplink Multiuser MIMO Networks",
+            "publish": "Transactions on Mobile Computing",
+            "vol": "15",
+            "no": "12",
+            "pp": "3014-3027",
+            "date": "DEC 2016",
+            "unit": "IEEE",
+            "link": "http://ieeexplore.ieee.org/document/7415950/"
+        }, {
+            "authors": "M.-H. Chen, Y.-C. Tung, S.-H. Hung, K. C.-J. Lin and C.-F. Chou",
+            "title": "Availability Is Not Enough: Minimizing Joint Response Time in Peer-Assisted Cloud Storage Systems",
+            "publish": "System Journal",
+            "vol": "10",
+            "no": "4",
+            "pp": "1424-1434",
+            "date": "DEC 2016",
+            "unit": "IEEE",
+            "link": "http://ieeexplore.ieee.org/document/7036077/"
+        }, {
+            "authors": "K. C.-J. Lin, T.-W. Kuo, P.-J. Yan, W.-J. Cheng and S.-K. Jeng",
+            "title": "Beam Configuration and Client Association for Access Points Using Switched Beam Antennas",
+            "publish": "Transactions on Mobile Computing",
+            "vol": "15",
+            "no": "9",
+            "pp": "2179-2192",
+            "date": "SEP 2016",
+            "unit": "IEEE",
+            "link": "http://ieeexplore.ieee.org/document/7300443/"
+        }, {
+            "authors": "S.-C. Chao, K. C.-J. Lin and M.-S. Chen",
+            "title": "Flow Classification for Software-Defined Data Centers Using Stream Mining",
+            "publish": "Transactions on Services Computing",
+            "vol": "",
+            "no": "",
+            "pp": "",
+            "date": "AUG 2016",
+            "unit": "IEEE",
+            "link": "http://ieeexplore.ieee.org/document/7549048/"
+        }, {
+            "authors": "B.-S. Chen, K. C.-J. Lin, S.-L. Chiu, R. Lee, and H.-Y. Wei",
+            "title": "Multiplexing-Diversity Medium Access for Multi-User MIMO Networks",
+            "publish": "Transactions on Mobile Computing",
+            "vol": "15",
+            "no": "5",
+            "pp": "1211-1223",
+            "date": "MAY 2016",
+            "unit": "IEEE",
+            "link": ""
+        }, {
+            "authors": "C.-C. Hung and K. C.-J. Lin",
+            "title": "Joint Sink Deployment and Association for Multi-Sink Wireless Camera Networks",
+            "publish": "Wireless Communications and Mobile Computing",
+            "vol": "15",
+            "no": "2",
+            "pp": "209-222",
+            "date": "FEB 2016",
+            "unit": "WILEY",
+            "link": "http://onlinelibrary.wiley.com/doi/10.1002/wcm.2509/abstract"
+        }, {
+            "authors": "H.-H. Cheng and K. C.-J. Lin",
+            "title": "Source Selection and Distributed Content Dissemination for Preference-Aware Traffic Offloading",
+            "publish": "Transactions on Parallel and Distributed Systems",
+            "vol": "26",
+            "no": "11",
+            "pp": "3160-3174",
+            "date": "NOV 2015",
+            "unit": "IEEE",
+            "link": "http://ieeexplore.ieee.org/document/6928487/"
+        }, {
+            "authors": "T.-W. Kuo, K. C.-J. Lin and M.-J. Tsai",
+            "title": "Maximizing Submodular Set Function with Connectivity Constraint: Theory and Application to Networks",
+            "publish": "Transactions on Networking",
+            "vol": "23",
+            "no": "2",
+            "pp": "533-546",
+            "date": "APR 2015",
+            "unit": "IEEE/ACM",
+            "link": "http://ieeexplore.ieee.org/abstract/document/6739145/"
+        }, {
+            "authors": "T.-W. Kuo, K.-C. Lee, K. C.-J. Lin and M.-J. Tsai",
+            "title": "Leader-Contention-Based User Matching for 802.11 Multiuser MIMO Networks",
+            "publish": "Transactions on Wireless Communications",
+            "vol": "13",
+            "no": "8",
+            "pp": "4389-4400",
+            "date": "AUG 2014",
+            "unit": "IEEE",
+            "link": "http://ieeexplore.ieee.org/document/6807794/"
+        }, {
+            "authors": "W.-L. Shen, C.-S. Chen, K. C.-J. Lin and K. A. Hua",
+            "title": "Autonomous Mobile Mesh Networks",
+            "publish": "Transactions on Mobile Computing",
+            "vol": "13",
+            "no": "2",
+            "pp": "364-376",
+            "date": "FEB 2014",
+            "unit": "IEEE",
+            "link": "http://ieeexplore.ieee.org/document/6392170/"
+        }, {
+            "authors": "W.-L. Shen, K. C.-J. Lin, S. Gollakota and M.-S. Chen",
+            "title": "Rate Adaptation for 802.11 Multiuser MIMO Networks",
+            "publish": "Transactions on Mobile Computing (Fast track issue for three best paper finalists in MOBICOM'12)",
+            "vol": "13",
+            "no": "1",
+            "pp": "37-47",
+            "date": "JAN 2014",
+            "unit": "IEEE",
+            "link": "http://ieeexplore.ieee.org/abstract/document/6585255/"
+        }, {
+            "authors": "K. C.-J. Lin and D.-N. Yang",
+            "title": "Multicast with Intra-Flow Network Coding in Multi-Rate Multi-Channel Wireless Mesh Networks",
+            "publish": "Transactions on Vehicular Technology",
+            "vol": "62",
+            "no": "8",
+            "pp": "3913-3927",
+            "date": "OCT 2013",
+            "unit": "IEEE",
+            "link": "http://ieeexplore.ieee.org/document/6509475/"
+        }, {
+            "authors": "C.-C. Hsu, M.-S. Kuo, C.-F. Chou, and K. C.-J. Lin",
+            "title": "The Elimination of Spatial-Temporal Uncertainty in Underwater Sensor Networks",
+            "publish": "Transactions on Networking",
+            "vol": "21",
+            "no": "4",
+            "pp": "1229-1242",
+            "date": "AUG 2013",
+            "unit": "IEEE/ACM",
+            "link": "http://ieeexplore.ieee.org/document/6334449/"
+        }, {
+            "authors": "C.-C. Hung, K. C.-J. Lin, C.-F. Chou and C.-C. Hsu",
+            "title": "EFFORT: Energy-Efficient Opportunistic Routing in Wireless Sensor Networks",
+            "publish": "Wireless Communications and Mobile Computing",
+            "vol": "13",
+            "no": "8",
+            "pp": "760-773",
+            "date": "JUN 2013",
+            "unit": "WILEY",
+            "link": "http://onlinelibrary.wiley.com/doi/10.1002/wcm.1140/abstract"
+        }, {
+            "authors": "K. C.-J. Lin, W.-L. Shen, C.-H. Hsu and C.-F. Chou",
+            "title": "Quality-Differentiated Video Multicast in Multi-Rate Wireless Networks",
+            "publish": "Transactions on Mobile Computing",
+            "vol": "12",
+            "no": "1",
+            "pp": "21-34",
+            "date": "JAN 2013",
+            "unit": "IEEE",
+            "link": "http://ieeexplore.ieee.org/abstract/document/6081873/"
+        }, {
+            "authors": "K. C.-J. Lin, Y.-J. Chuang and D. Katabi",
+            "title": "A Light-Weight Wireless Handshake",
+            "publish": "ACM Computer Communication Review",
+            "vol": "42",
+            "no": "2",
+            "pp": "28-34",
+            "date": "APR 2012",
+            "unit": "ACM",
+            "link": "https://dl.acm.org/citation.cfm?id=2185380"
+        }, {
+            "authors": "K. C.-J. Lin, W.-T. Lin and C.-F. Chou",
+            "title": "Social-Based Content Diffusion in Pocket Switched Networks",
+            "publish": "Transactions on Vehicular Technology",
+            "vol": "60",
+            "no": "9",
+            "pp": "4539-4548",
+            "date": "NOV 2011",
+            "unit": "IEEE",
+            "link": "http://ieeexplore.ieee.org/abstract/document/6095387/"
+        }, {
+            "authors": "C.-C. Hsu, K. C.-J. Lin, Y.-R. Lai and C.-F. Chou",
+            "title": "On Exploiting Spatial-Temporal Uncertainty in Max-min Fairness in Underwater Sensor Networks",
+            "publish": "Communications Letters",
+            "vol": "14",
+            "no": "12",
+            "pp": "1098-1100",
+            "date": "DEC 2010",
+            "unit": "IEEE",
+            "link": "http://ieeexplore.ieee.org/document/5601967/"
+        }, {
+            "authors": "K. C.-J. Lin, C.-P. Wang, C.-F. Chou and L. Golubchik",
+            "title": "SocioNet: A Social-based Multimedia Access System for Unstructured P2P Networks",
+            "publish": "Transactions on Parallel and Distributed Systems",
+            "vol": "21",
+            "no": "7",
+            "pp": "1127-1031",
+            "date": "JUL 2010",
+            "unit": "IEEE",
+            "link": "http://ieeexplore.ieee.org/document/5210095/"
+        }, {
+            "authors": "K. C.-J. Lin and C.-F. Chou",
+            "title": "Exploiting Multiple Rates to Maximize Throughput for Wireless Mesh Networks",
+            "publish": "Transactions on Wireless Communications",
+            "vol": "8",
+            "no": "12",
+            "pp": "6038-6049",
+            "date": "DEC 2009",
+            "unit": "IEEE",
+            "link": "http://ieeexplore.ieee.org/abstract/document/5351722/"
+        }, {
+            "authors": "K. C.-J. Lin and C.-F. Chou",
+            "title": "Cooperative Content Dissemination in Multi-channel WLAN Hotspots",
+            "publish": "Computer Networks",
+            "vol": "52",
+            "no": "3",
+            "pp": "720-738",
+            "date": "FEB 2008",
+            "unit": "ScienceDirect",
+            "link": "http://www.sciencedirect.com/science/article/pii/S1389128607003283"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "data": [{
+            "name": "ACM SIGCOMM",
+            "link": "http://www.sigcomm.org"
+        }, {
+            "name": "USENIX",
+            "link": "http://www.usenix.org"
+        }, {
+            "name": "IEEE Communications Society (IEEE ComSoc)",
+            "link": "http://www.comsoc.org"
+        }, {
+            "name": "IEEE Computer Society",
+            "link": "http://www.computer.org"
+        }, {
+            "name": "Elsevier",
+            "link": "http://www.elsevier.com"
+        }, {
+            "name": "IFIP TC6: Communication Systems",
+            "link": "http://ifip.informatik.uni-hamburg.de/ifip/tc/6"
+        }
+    ]
+}

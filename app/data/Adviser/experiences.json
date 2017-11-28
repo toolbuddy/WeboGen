@@ -1,0 +1,112 @@
+{
+    "data": [{
+            "date": "AUG 2016 - Present",
+            "exp": {
+                "unit": {
+                    "en": "Department of Computer Science, National Chiao Tung University",
+                    "ch": "國立交通大學資訊工程學系"
+                },
+                "duty": {
+                    "en": "Associate Professor",
+                    "ch": "副教授"
+                }
+            }
+        }, {
+            "date": "JAN 2014 - JUL 2016",
+            "exp": {
+                "unit": {
+                    "en": "Research Center for IT Innovation, Academia Sinica",
+                    "ch": "中央研究院資訊科技創新研究中心"
+                },
+                "duty": {
+                    "en": "Associate Research Fellow",
+                    "ch": "副研究員"
+                }
+            }
+        }, {
+            "date": "JAN 2010 - JAN 2014",
+            "exp": {
+                "unit": {
+                    "en": "Research Center for IT Innovation, Academia Sinica",
+                    "ch": "中央研究院資訊科技創新研究中心"
+                },
+                "duty": {
+                    "en": "Assistant Research Fellow",
+                    "ch": "助理研究員"
+                }
+            }
+        }, {
+            "date": "MAY 2012 - JUL 2012",
+            "exp": {
+                "unit": {
+                    "en": "Wireless Networking and Communications Group, UT Austin",
+                    "ch": "美國德州大學奧斯汀分校 無線網路與通訊團隊"
+                },
+                "duty": {
+                    "en": "Visiting Scholar (Host: Professor Lili Qiu)",
+                    "ch": "訪問學者"
+                }
+            }
+        }, {
+            "date": "JUN 2011 - NOV 2011",
+            "exp": {
+                "unit": {
+                    "en": "Department of Computer Science and Information Engineering, NTUST",
+                    "ch": "國立臺灣科技大學資訊工程學系"
+                },
+                "duty": {
+                    "en": "Visiting Scholar",
+                    "ch": "訪問學者"
+                }
+            }
+        },  {
+            "date": "FEB 2011 - MAR 2011",
+            "exp": {
+                "unit": {
+                    "en": "University of Central Florida",
+                    "ch": "美國中央佛羅里達大學"
+                },
+                "duty": {
+                    "en": "Consultant (Host: Professor Kien A. Hua)",
+                    "ch": "顧問"
+                }
+            }
+        }, {
+            "date": "SEP 2010 - MAR 2011",
+            "exp": {
+                "unit": {
+                    "en": "Networks and Mobile Systems Group, CSAIL, MIT",
+                    "ch": "美國麻省理工學院 計算機科學與人工智慧實驗室-網路與行動系統團隊"
+                },
+                "duty": {
+                    "en": "Visiting Scientist (Host: Professor Dina Katabi)",
+                    "ch": "訪問科學家"
+                }
+            }
+        }, {
+            "date": "JUL 2009 - DEC 2009",
+            "exp": {
+                "unit": {
+                    "en": "Research Center for IT Innovation, Academia Sinica",
+                    "ch": "中央研究院資訊科技創新研究中心"
+                },
+                "duty": {
+                    "en": "Postdoctoral Fellow",
+                    "ch": "博士後研究員"
+                }
+            }
+        }, {
+            "date": "MAR 2007 - MAR 2008",
+            "exp": {
+                "unit": {
+                    "en": "Networks and Mobile Systems Group, CSAIL, MIT",
+                    "ch": "美國麻省理工學院 計算機科學與人工智慧實驗室-網路與行動系統團隊"
+                },
+                "duty": {
+                    "en": "Visiting Scholar (Host: Professor Dina Katabi)",
+                    "ch": "訪問學者"
+                }
+            }
+        } 
+    ]
+}

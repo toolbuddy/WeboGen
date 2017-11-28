@@ -1,0 +1,60 @@
+{
+    "data": [{
+            "title": "Sub-meter Localization in Smart Factory",
+            "project": {
+                "en": "Delta-NCTU Cooperation Project",
+                "ch": "台達電子-交通大學合作計畫"
+            },
+            "status": "PI",
+            "date": "MAY 2017 - APR 2018"
+        }, {
+            "title": "Performance Enhancement for Wireless Multi-Party Conference Call",
+            "project": {
+                "en": "AWIND Cooperation Project",
+                "ch": "奇揚網科合作計畫"
+            },
+            "status": "PI",
+            "date": "JUN 2015 - MAY 2016"
+        }, {
+            "title": "Non-Orthogonal Medium Access for Full-Duplex Communications",
+            "project": {
+                "en": "Institute for Information Industry Cooperation Project",
+                "ch": "財團法人資訊工業策進會合作計畫"
+            },
+            "status": "PI",
+            "date": "MAY 2015 - MAR 2016"
+        }, {
+            "title": "Next-Generation Collaborative Vehicle Safety System",
+            "project": {
+                "en": "Intel-NTU Connected Context Computing Center Programs",
+                "ch": "英特爾-臺大創新研究中心計畫"
+            },
+            "status": "Co-PI",
+            "date": "JAN 2014 - DEC 2015"
+        }, {
+            "title": "Enhance QoS of FreeRDP-based Cloud Virtual Desktop",
+            "project": {
+                "en": "Institute for Information Industry Cooperation Project",
+                "ch": "財團法人資訊工業策進會合作計畫"
+            },
+            "status": "PI",
+            "date": "MAR 2013 - NOV 2013"
+        }, {
+            "title": "Resolution Adaptation based on Network Quality and Region Importance for Desktop Virtualization",
+            "project": {
+                "en": "Institute for Information Industry Cooperation Project",
+                "ch": "財團法人資訊工業策進會合作計畫"
+            },
+            "status": "PI",
+            "date": "MAR 2012 - NOV 2012"
+        },  {
+            "title": "Load Balancing for Large Scale Upload Transmission and Processing",
+            "project": {
+                "en": "Institute for Information Industry Cooperation Project",
+                "ch": "財團法人資訊工業策進會合作計畫"
+            },
+            "status": "Co-PI",
+            "date": "FEB 2010 - DEC 2010"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "data": [{
+            "date": "2017-11-28",
+            "title": "Our paper \"On Scalable Service Function Chaining with O(1) Flowtable Entriess\" is accepted by IEEE INFOCOM'18",
+            "label": "New"
+        }, {
+            "date": "2016-11-26",
+            "title": "Our papers \"CELLI\" and \"POLI\" are accepted by ACM MobiSys'17",
+            "label": "None"
+        }, {
+            "date": "2016-11-26",
+            "title": "Three papers are accepted by IEEE INFOCOM'17",
+            "label": "None"
+        }, {
+            "date": "2016-04-02",
+            "title": "Our paper \"DelayForward\" is accepted by ACM MobiHoc'16 (Acceptance rate: 18%)",
+            "label": "None"
+        }, {
+            "date": "2015-11-27",
+            "title": "Our papers \"FlexNEMO\" and \"Deploying Chains of Virtual Network Functions\" are accepted by IEEE INFOCOM'16 (Acceptance rate: 18%)",
+            "label": "None"
+        }, {
+            "date": "2015-05-23",
+            "title": "Our paper \"RollingLight\" is accepted by ACM MobiSys'15 (Acceptance rate: 13.2%)",
+            "label": "None"
+        }, {
+            "date": "2014-11-18",
+            "title": "Our papers \"Sieve\" and \"HybridCast\" are accepted by IEEE INFOCOM'15",
+            "label": "None"
+        }, {
+            "date": "2013-07-12",
+            "title": "Our paper \"Rate Adaptation for 802.11 Multiuser MIMO Networks\" is accepted by IEEE Transactions on Mobile Computing (Fast track issue for three best paper finalists in MOBICOM'12)",
+            "label": "None"
+        }
+    ]
+}

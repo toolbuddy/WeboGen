@@ -1,0 +1,66 @@
+{
+    "data": [{
+            "date": "2017",
+            "prog": [
+                "ACM APNET",
+                "ACM HotWireless", 
+                "ACM Workshop on mmNets",
+                "ACM Workshop on VLCS", 
+                "IEEE GLOBECOM", 
+                "IEEE ICNP",
+                "IEEE INFOCOM", 
+                "IEEE SECON"
+            ]
+        }, {
+            "date": "2016",
+            "prog": [
+                "ACM MOBICOM", 
+                "ACM Workshop on Visible Light Communication System",
+                "IEEE ICC", 
+                "IEEE ICNP", 
+                "IEEE INFOCOM",
+                "IEEE SECON", 
+                "USENIX NSDI"
+            ]
+        }, {
+            "date": "2015",
+            "prog": [
+                "ACM Workshop on Visible Light Communication System",
+                "IEEE GLOBECOM", 
+                "IEEE ICC", 
+                "IEEE ICME",
+                "IEEE INFOCOM",   
+                "USENIX NSDI"
+            ]
+        }, {
+            "date": "2014",
+            "prog": [
+                "ACM MOBICOM", 
+                "ACM Workshop on All Things Cellular", 
+                "ACM Workshop on Visible Light Communication Systems", 
+                "APNOMS",
+                "IEEE ICME"
+            ]
+        }, {
+            "date": "2013",
+            "prog": [
+                "IEEE ICME", 
+                "ICNC"
+            ]
+        }, {
+            "date": "2012",
+            "prog": [
+                "ACM CoNEXT Student Workshop",
+                "IEEE ICME", 
+                "USENIX NSDI", 
+                "WPMC"
+            ]
+        }, {
+            "date": "2011",
+            "prog": [
+                "IEEE ICME", 
+                "IEEE PIMRC"
+            ]
+        } 
+    ]
+}

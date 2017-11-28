@@ -1,0 +1,37 @@
+{
+    "data": [{
+            "name": "ACM Special Interest Group on Data Communication (SIGCOMM)",
+            "link": "https://www.sigcomm.org/"
+        }, {
+            "name": "ACM Mobile Computing and Networking (MobiCom)",
+            "link": "https://www.sigmobile.org/mobicom/"
+        }, {
+            "name": "ACM Mobile Systems, Applications, and Services (MobiSys)",
+            "link": "https://www.sigmobile.org/mobisys/"
+        }, {
+            "name": "ACM Mobile Ad Hoc Networking and Computing (MobiHoc)",
+            "link": "https://www.sigmobile.org/mobihoc/2017/"
+        }, {
+            "name": "IEEE Computer Communications (INFOCOM)",
+            "link": "http://infocom2018.ieee-infocom.org/"
+        }, {
+            "name": "IEEE Acoustics, Speech and Signal Processing (ICASSP)",
+            "link": "http://infocom2018.ieee-infocom.org/"
+        }, {
+            "name": "Mobile Computing",
+            "link": "#"
+        }, {
+            "name": "2017 Taipei 5G Summit",
+            "link": "http://www.5g.org.tw/"
+        }, {
+            "name": "Conference for Open Source Coders, Users and Promoters (COSCUP)",
+            "link": "https://coscup.org"
+        }, {
+            "name": "Mobile Open Platform Conference (MOPCON)",
+            "link": "https://mopcon.org"
+        }, {
+            "name": "Python Conference Taiwan (PyCon TW)",
+            "link": "https://tw.pycon.org/2017/en-us/"
+        }
+    ]
+}

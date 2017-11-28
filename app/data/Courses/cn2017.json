@@ -1,0 +1,129 @@
+{
+    "data": [{
+            "title": {
+                "en": "Introduction to Computer Netwroks",
+                "ch": "計算機網路概論"
+            },
+            "sem": "2017 Fall",
+            "grade": "大學部二年級",
+            "about": "This course introduces the design principles of computer networks. The topics include access control in both wired and wireless networks, routing and IP, transport services (TCP/UDP), network applications (HTTP/DNS), local-area and wide-area networks and mobility management.",
+            "classes": [{
+                    "time": "09:00 - 09:50",
+                    "week": "Mon.",
+                    "place": "EC-114"
+                }, {
+                    "time": "13:20 - 15:10",
+                    "week": "Thu.",
+                    "place": "EC-114"
+                }
+            ],
+            "exams": [{
+                    "name": {
+                        "en": "Mid-term Exam",
+                        "ch": "期中考"
+                    },
+                    "date": "NOV 09, 2017",
+                    "time": "13:00 - 15:10",
+                    "week": "Thu.",
+                    "place": "EC-114",
+                    "pass": true
+                }, {
+                    "name": {
+                        "en": "Final Exam",
+                        "ch": "期末考"
+                    },
+                    "date": "JAN 11, 2018",
+                    "time": "13:00 - 15:10",
+                    "week": "Thu.",
+                    "place": "EC-114",
+                    "pass": false
+                }
+            ],
+            "instructors": [{
+                    "name": {
+                        "en": "Prof. Kate C.-J. Lin",
+                        "ch": "林靖茹教授"
+                    },
+                    "email": "katelin@cs.nctu.edu.tw",
+                    "img": "/Adviser/katelin.jpg s",
+                    "office": "EC-538",
+                    "time": "By appointment"
+                }
+            ],
+            "assistants":[{
+                    "name": {
+                        "en": "Nike Sun",
+                        "ch": "孫造鴻"
+                    },
+                    "email": "a0987973312@gmail.com",
+                    "time": "By appointment"
+                }, {
+                    "name": {
+                        "en": "Tzu-Chun Tai",
+                        "ch": "戴子鈞"
+                    },
+                    "email": "danny821014@gmail.com",
+                    "time": "By appointment"
+                }
+            ],
+            "textbooks": [{
+                    "name": "Computer Networking: A top-down approach Global edition, 7th edition",
+                    "authors": "James F. Kurose and Keith W. Ross",
+                    "publish": "Pearson 2017",
+                    "isbn": "9781292153599",
+                    "img": "http://pictures.abebooks.com/USBOOKSHOPS/md/md22013690098.jpg"
+                }
+            ],
+            "grading": [{
+                    "name": {
+                        "en": "Assignments",
+                        "ch": "作業"
+                    },
+                    "val": 20,
+                    "type": "normal"
+                }, {
+                    "name": {
+                        "en": "Labs",
+                        "ch": "實驗"
+                    },
+                    "val": 20,
+                    "type": "normal"
+                }, {
+                    "name": {
+                        "en": "Mid-term Exam",
+                        "ch": "期中考"
+                    },
+                    "val": 30,
+                    "type": "normal"
+                }, {
+                    "name": {
+                        "en": "Final Exam",
+                        "ch": "期末考"
+                    },
+                    "val": 30,
+                    "type": "normal"
+                }, {
+                    "name": {
+                        "en": "Quiz",
+                        "ch": "小考"
+                    },
+                    "val": 5,
+                    "type": "bonus"
+                }
+            ],
+            "lectures": [{
+                    "title": "Course overview and introduction"
+                }, {
+                    "title": "Network applications"
+                }, {
+                    "title": "Network layer (Data plane)"
+                }, {
+                    "title": "Network layer (Control plane)"
+                }, {
+                    "title": "Link layer and wireless access"
+                }
+            ],
+            "website": "http://people.cs.nctu.edu.tw/~katelin/courses/cn17"
+        }
+    ]
+}

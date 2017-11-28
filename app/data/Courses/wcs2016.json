@@ -1,0 +1,132 @@
+{
+    "data": [{
+            "title": {
+                "en": "Wireless Communication Systems",
+                "ch": "無線通訊系統"
+            },
+            "sem": "2016 Spring",
+            "grade": "研究所",
+            "about": "This class will teach hands-on experience with wireless communication systems. We will focus on how signals are transmitted and received, the impact of the wireless channels, and how to deal with noise and radio imperfections. We will also teach the basics of OFDM, interference cancellation, MIMO systems, interference alignment, wireless localization, low power networks, full duplex radios, 4G LTE, visible light communication, etc. There will be labs and a project to teach you how to design and build a wireless system, how to test your system on software radios (e.g., USRP or WARP) and how to do cross layer wireless research.",
+            "classes": [{
+                    "time": "10:10 - 12:00",
+                    "week": "Tue.",
+                    "place": "ED-305"
+                }, {
+                    "time": "15:30 - 16:20",
+                    "week": "Thu.",
+                    "place": "ED-305"
+                }
+            ],
+            "instructors": [{
+                    "name": {
+                        "en": "Prof. Kate C.-J. Lin",
+                        "ch": "林靖茹教授"
+                    },
+                    "email": "katelin@cs.nctu.edu.tw",
+                    "office": "EC-538",
+                    "time": "By appointment"
+                }
+            ],
+            "assistants":[{
+                    "name": {
+                        "en": "Wei-Jun Zhang",
+                        "ch": "張威竣"
+                    },
+                    "email": "wcchang1115@gmail.com",
+                    "time": "By appointment"
+                }, {
+                    "name": {
+                        "en": "Yu-Lin Wei",
+                        "ch": "魏佑霖"
+                    },
+                    "email": "weiwally@gmail.com",
+                    "time": "By appointment"
+                }
+            ],
+            "textbooks": [{
+                    "name": "Fundamentals of Wireless Communication",
+                    "authors": "David Tse and Pramod Viswanath",
+                    "publish": "Cambridge University Press, 2005",
+                    "isbn": "9780521845274",
+                    "img": "https://web.stanford.edu/~dntse/book2.jpg"
+                }, {
+                    "name": "Wireless Communications",
+                    "authors": "Andrea Goldsmith",
+                    "publish": "Cambridge University Press, 2005",
+                    "isbn": "9780521837163",
+                    "img": "https://images-na.ssl-images-amazon.com/images/I/51OHVoDvL6L._SX335_BO1,204,203,200_.jpg"
+                }
+            ],
+            "grading": [{
+                    "name": {
+                        "en": "Project",
+                        "ch": "專題"
+                    },
+                    "val": 30,
+                    "type": "normal"
+                }, {
+                    "name": {
+                        "en": "Labs",
+                        "ch": "實驗"
+                    },
+                    "val": 45,
+                    "type": "normal"
+                }, {
+                    "name": {
+                        "en": "Presentation",
+                        "ch": "報告"
+                    },
+                    "val": 5,
+                    "type": "normal"
+                }, {
+                    "name": {
+                        "en": "Mini-Assignment",
+                        "ch": "小作業"
+                    },
+                    "val": 10,
+                    "type": "normal"
+                }, {
+                    "name": {
+                        "en": "Quiz",
+                        "ch": "小考"
+                    },
+                    "val": 10,
+                    "type": "normal"
+                }
+            ],
+            "lectures": [{
+                    "title": "Introduction"
+                }, {
+                    "title": "Medium Access Control"
+                }, {
+                    "title": "Routing"
+                }, {
+                    "title": "Modulation"
+                }, {
+                    "title": "Bit-Rate Adaptation"
+                }, {
+                    "title": "Soft Information and Error Recovery"
+                }, {
+                    "title": "OFDM"
+                }, {
+                    "title": "Successive Interference Cancellation"
+                }, {
+                    "title": "MIMO 1: Multiplexing, Diversity, and Detection"
+                }, {
+                    "title": "MIMO 2: Interference Alignment, Interference Nulling, and Virtual MIMO"
+                }, {
+                    "title": "Wireless Localization"
+                }, {
+                    "title": "Wireless HCI"
+                }, {
+                    "title": "Visible Light Communications"
+                }, {
+                    "title": "Full-Duplex Communications"
+                }, {
+                    "title": "mmWave"
+                }
+            ],
+            "website": "http://people.cs.nctu.edu.tw/~katelin/courses/wcs16"
+        }
+    ]
+}

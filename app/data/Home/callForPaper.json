@@ -1,0 +1,34 @@
+{
+    "data": [{
+            "conf": "GLOBECOM",
+            "date": "APR 15, 2018",
+            "label": "IEEE",
+            "link": "http://globecom2018.ieee-globecom.org/"
+        },  {
+            "conf": "MobileHCI",
+            "date": "FEB 09, 2018",
+            "label": "ACM",
+            "link": "https://mobilehci.acm.org/2018/"
+        }, {
+            "conf": "MobiHoc",
+            "date": "DEC 15, 2017",
+            "label": "ACM",
+            "link": "https://www.sigmobile.org/mobihoc/2018/"
+        }, {
+            "conf": "SECON",
+            "date": "DEC 15, 2017",
+            "label": "IEEE",
+            "link": "http://secon2018.ieee-secon.org/"
+        }, {
+            "conf": "MobiSys",
+            "date": "DEC 01,2017",
+            "label": "ACM",
+            "link": "https://www.sigmobile.org/mobisys/2018/"
+        }, {
+            "conf": "MobiCom",
+            "date": "MAR 15, 2017",
+            "label": "IEEE",
+            "link": "https://sigmobile.org/mobicom/2017/"
+        }
+    ]
+}

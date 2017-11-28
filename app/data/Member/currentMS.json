@@ -1,0 +1,88 @@
+{
+    "data": [{
+            "img": "/Member/chengfahuang.jpg",
+            "name": {
+                "en": "Cheng-Fa Huang",
+                "ch": "黃誠發"
+            },
+            "inst": {
+                "en": "Institute of Network Engineering",
+                "ch": "網路工程研究所"
+            },
+            "research": "[研究方向]",
+            "join": "JUL 2017",
+            "detail": true,
+            "about": "[About me]",
+            "email": "willyhome85.cs06g@nctu.edu.tw",
+            "github": "https://github.com/ChenFaHaung"
+        }, {
+            "img": "/Member/yilunli.jpg",
+            "name": {
+                "en": "Yi-Lun Li",
+                "ch": "李懿倫"
+            },
+            "inst": {
+                "en": "Institute of Network Engineering",
+                "ch": "網路工程研究所"
+            },
+            "research": "[研究方向]",
+            "join": "JUL 2017",
+            "detail": true,
+            "about": "[About me]",
+            "email": "yilun.cs06g@nctu.edu.tw",
+            "github": "https://github.com/dppss90010"
+        }, {
+            "img": "/Member/yungshenglu.jpg",
+            "name": {
+                "en": "Yung-Sheng Lu",
+                "ch": "陸勇盛"
+            },
+            "inst": {
+                "en": "Institute of Network Engineering",
+                "ch": "網路工程研究所"
+            },
+            "research": "[研究方向]",
+            "join": "JUL 2017",
+            "detail": true,
+            "about": "[About me]",
+            "univ": {
+                "en": "National Cheng Kung University Department of Computer Science and Information Engineering B.S.",
+                "ch": "國立成功大學資訊工程學系"
+            },
+            "email": "yungshenglu.cs06g@nctu.edu.tw",
+            "github": "https://github.com/yungshenglu"
+        }, {
+            "img": "/Member/terryhsu.jpg",
+            "name": {
+                "en": "Terry Hsu",
+                "ch": "許秉儒"
+            },
+            "inst": {
+                "en": "Institute of Computer Science and Engineering",
+                "ch": "資訊科學與工程研究所"
+            },
+            "research": "[研究方向]",
+            "join": "JUL 2017",
+            "detail": true,
+            "about": "[About me]",
+            "email": "terryhsu.cs06g@nctu.edu.tw",
+            "github": "https://github.com/terrypjhsu"
+        }, {
+            "img": "/Member/frankchang.jpg",
+            "name": {
+                "en": "Frank Chang",
+                "ch": "張哲維"
+            },
+            "inst": {
+                "en": "Institute of Network Engineering",
+                "ch": "網路工程研究所"
+            },
+            "research": "[研究方向]",
+            "join": "JUL 2016",
+            "detail": false,
+            "about": "[About me]",
+            "email": "",
+            "github": ""
+        }
+    ]
+}

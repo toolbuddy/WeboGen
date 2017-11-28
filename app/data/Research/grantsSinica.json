@@ -1,0 +1,22 @@
+{
+    "data": [{
+            "title": "Cross-layer Network Designs of 5G Ultra Dense Small-Cell Networks",
+            "project": {
+                "en": "Academia Sinica Thematic Project",
+                "ch": "中央研究院主題計畫"
+            },
+            "serial": "AS-104-TP-A05",
+            "status": "PI",
+            "date": "JAN 2015 - DEC 2017"
+        }, {
+            "title": "OpenISDM – Sub-Project 6: Open Information Gateway",
+            "project": {
+                "en": "Academia Sinica Thematic Project",
+                "ch": "中央研究院主題計畫"
+            },
+            "serial": "AS-101-TP2-A01",
+            "status": "Co-PI",
+            "date": "JAN 2012 - DEC 2014"
+        }
+    ]
+}

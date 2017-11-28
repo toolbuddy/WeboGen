@@ -1,0 +1,34 @@
+{
+    "data": [{
+            "prof": {
+                "en": "Poster Co-Chair",
+                "ch": ""
+            },
+            "unit": {
+                "en": "ACM MobiCom",
+                "ch": ""
+            },
+            "date": "2017"
+        }, {
+            "prof": {
+                "en": "Editor",
+                "ch": ""
+            },
+            "unit": {
+                "en": "Wireless Networks",
+                "ch": ""
+            },
+            "date": "2014 - Present"
+        }, {
+            "prof": {
+                "en": "Publicity Chair",
+                "ch": ""
+            },
+            "unit": {
+                "en": "ACM CellNet",
+                "ch": ""
+            },
+            "date": "2013"
+        }
+    ]
+}

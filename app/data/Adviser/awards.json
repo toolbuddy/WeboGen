@@ -1,0 +1,88 @@
+{
+    "data": [{
+            "date": "2016",
+            "award": {
+                "en": "Young Scholars’ Creativity Award, Foundation for the Advancement of Outstanding Scholarship",
+                "ch": "傑出人才發展基金會年輕學者創新獎"
+            }
+        }, {
+            "date": "2015",
+            "award": {
+                "en": "The 23rd Ten Outstanding Young Women Award",
+                "ch": "第二十三屆中華民國十大傑出女青年"
+            }
+        }, {
+            "date": "2015",
+            "award": {
+                "en": "Project for Excellent Junior Research Investigators, MOST",
+                "ch": "科技部優秀年輕研究學者計畫"
+            }
+        }, {
+            "date": "2014",
+            "award": {
+                "en": "Intel Distinguished Collaborative Research Award",
+                "ch": "英特爾傑出合作研究獎"
+            }
+        }, {
+            "date": "2013",
+            "award": {
+                "en": "Project for Excellent Junior Research Investigators, NSC",
+                "ch": "國家科學委員會優秀年輕研究學者計畫"
+            }
+        }, {
+            "date": "2013",
+            "award": {
+                "en": "K. T. Li Young Researcher Award",
+                "ch": "李國鼎青年研究獎"
+            }
+        }, {
+            "date": "2013",
+            "award": {
+                "en": "Outstanding Social Youth of Taipei Municipal",
+                "ch": "臺北市社會優秀青年"
+            }
+        }, {
+            "date": "2012",
+            "award": {
+                "en": "The Exploration Research Award of Pan Wen Yuan Foundation",
+                "ch": "潘文淵考察研究獎"
+            }
+        }, {
+            "date": "2012",
+            "award": {
+                "en": "ACM MOBICOM Best Paper Nomination",
+                "ch": "ACM MOBICOM 最佳論文提名"
+            }
+        }, {
+            "date": "2009",
+            "award": {
+                "en": "Member of the Phi Tau Phi Scholastic Honor Society",
+                "ch": "斐陶斐榮譽學會會員"
+            }
+        }, {
+            "date": "2008",
+            "award": {
+                "en": "Science and Technology Research Scholarship, CTCI Foundation",
+                "ch": "財團法人中技社科技研究獎學金"
+            }
+        }, {
+            "date": "2008",
+            "award": {
+                "en": "CyberLink Technical Elite Fellowship",
+                "ch": "訊連科技菁英獎學金"
+            }
+        }, {
+            "date": "2007",
+            "award": {
+                "en": "Student Travel Grant from ACM SIGCOMM",
+                "ch": "ACM SIGCOMM 學生海外研究獎學金"
+            }
+        }, {
+            "date": "2007",
+            "award": {
+                "en": "Scholarship for Graduate Student Study Abroad Program from NSC",
+                "ch": "國家科學委員會千里馬計畫獎學金"
+            }
+        }
+    ]
+}

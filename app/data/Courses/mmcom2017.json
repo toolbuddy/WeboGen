@@ -1,0 +1,144 @@
+{
+    "data": [{
+            "title": {
+                "en": "Multimedia Communications",
+                "ch": "多媒體通訊"
+            },
+            "sem": "2017 Spring",
+            "grade": "研究所",
+            "about": "This course is to introduce how to design network protocols customized for multimedia content, including images, video, voice and social media. The course will be partitioned into two parts. First, we will cover the principles of digital image/video standards and their delivery over wired or wireless networks. Second, we will introduce online social networks (such as Facebook and Twitter), which inter-connect people and disseminate information on the Internet.",
+            "classes": [{
+                    "time": "16:30 - 17:20",
+                    "week": "Tue.",
+                    "place": "EC-015"
+                }, {
+                    "time": "10:10 - 12:00",
+                    "week": "Fri.",
+                    "place": "EC-015"
+                }
+            ],
+            "exams": [{
+                    "name": {
+                        "en": "Mid-term Exam",
+                        "ch": "期中考"
+                    },
+                    "date": "MAY 05, 2017",
+                    "time": "10:10 - 12:00",
+                    "week": "Fri.",
+                    "place": "EC-015",
+                    "pass": true
+                }, {
+                    "name": {
+                        "en": "Final Exam",
+                        "ch": "期末考"
+                    },
+                    "date": "JUN 16, 2017",
+                    "time": "10:10 - 12:00",
+                    "week": "Fri.",
+                    "place": "EC-015",
+                    "pass": true
+                }
+            ],
+            "instructors": [{
+                    "name": {
+                        "en": "Prof. Kate C.-J. Lin",
+                        "ch": "林靖茹教授"
+                    },
+                    "email": "katelin@cs.nctu.edu.tw",
+                    "office": "EC-538",
+                    "time": "By appointment"
+                }
+            ],
+            "assistants":[{
+                    "name": {
+                        "en": "Nike Sun",
+                        "ch": "孫造鴻"
+                    },
+                    "email": "a0987973312@gmail.com",
+                    "time": "By appointment"
+                }, {
+                    "name": {
+                        "en": "Wen-Yang Lai",
+                        "ch": "賴文揚"
+                    },
+                    "email": "x3639026@gmail.com",
+                    "time": "By appointment"
+                }
+            ],
+            "textbooks": [{
+                    "name": "Fundamentals of Multimedia",
+                    "authors": "Ze-Nian Li and Mark S. Drew",
+                    "publish": "Pearson Prentice Hall, 2004",
+                    "isbn": "9783319052892",
+                    "img": "http://t1.gstatic.com/images?q=tbn:ANd9GcQ1pvYjo9IKaV0t2RVTyPXYutFEQb_T1XoH4OUwur6je1v9jCOF"
+                }, {
+                    "name": "Computer Networking: A top-down approach Global edition, 7th edition",
+                    "authors": "James F. Kurose and Keith W. Ross",
+                    "publish": "Pearson, 2017",
+                    "isbn": "9781292153599",
+                    "img": "http://pictures.abebooks.com/USBOOKSHOPS/md/md22013690098.jpg"
+                }, {
+                    "name": "Computer Networks: A Systems Approach, 5th Edition",
+                    "authors": "Larry L. Peterson and Bruce S. Davie",
+                    "publish": "Morgan Kaufmann Publishers Inc., 2011",
+                    "isbn": "9781292153599",
+                    "img": "http://ebook-dl.com/pictures/books/computer_networks_fifth_edition_a_systems_approach_larry_l_peterson_bruce_s_davie(www.ebook-dl.com)_Large.jpg"
+                }, {
+                    "name": "多媒體通訊, 3th edition",
+                    "authors": "戴顯權、陳瀅如、王春清",
+                    "publish": "紳藍出版社, 2002",
+                    "isbn": "9789579752480",
+                    "img": "https://assets.tenlong.com.tw/item_units/images/000/045/065/original/9789866889509.jpg"
+                }
+            ],
+            "grading": [{
+                    "name": {
+                        "en": "Assignments",
+                        "ch": "作業"
+                    },
+                    "val": 20,
+                    "type": "normal"
+                }, {
+                    "name": {
+                        "en": "Mini-Assignment",
+                        "ch": "小作業"
+                    },
+                    "val": 10,
+                    "type": "normal"
+                }, {
+                    "name": {
+                        "en": "Mid-term Exam",
+                        "ch": "期中考"
+                    },
+                    "val": 30,
+                    "type": "normal"
+                }, {
+                    "name": {
+                        "en": "Final Exam",
+                        "ch": "期末考"
+                    },
+                    "val": 30,
+                    "type": "normal"
+                }, {
+                    "name": {
+                        "en": "Participation",
+                        "ch": "課堂參與"
+                    },
+                    "val": 10,
+                    "type": "normal"
+                }
+            ],
+            "lectures": [{
+                    "title": "Introduction (Networking Overview and Wireless Networks)"
+                }, {
+                    "title": "Image and Video (Digital Image, Basics of Video Coding, Scalable Video Coding, and Performance metrics)"
+                }, {
+                    "title": "Multimedia Networking (RTSP, RTP, RTCP, SIP, HTTP streaming, P2P networks)"
+                }, {
+                    "title": "Online social networks (Community detection, Node classification, and Content dissemination and influence)"
+                }
+            ],
+            "website": "http://people.cs.nctu.edu.tw/~katelin/courses/mmcom17"
+        }
+    ]
+}

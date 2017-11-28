@@ -1,0 +1,27 @@
+{
+    "data": [{
+            "title": "網路式多天線系統之動態調節設計 (2/2)",
+            "img": "/Research/Result/MOST-104-2628-E-009-014-MY2.png",
+            "series": "MOST-104-2628-E-009 -014 -MY2",
+            "host": [{
+                "en": "Prof. Kate Ching-Ju Lin",
+                "ch": "林靖茹教授",
+                "img": "/Adviser/katelin.jpg" 
+            }],
+            "member": [{
+                "en": "Wei-Liang Shen",
+                "ch": "沈威良",
+                "img": "/Member/weiliangshen.jpg"
+
+            },{
+                "en": "Hung-Wei Hung",
+                "ch": "洪鴻維",
+                "img": "/Member/hungweihung.jpg"
+            }],
+            "unit": [{
+                "en": "National Chiao Tung University",
+                "ch": "國立交通大學"
+            }]
+        }
+    ]
+}

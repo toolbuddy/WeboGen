@@ -1,0 +1,20 @@
+{
+    "data": [{
+            "img": "/Member/yufanliu.jpg",
+            "name": {
+                "en": "Yu-Fan Liu",
+                "ch": "劉育凡"
+            },
+            "inst": {
+                "en": "Institute of Network Engineering",
+                "ch": "網路工程研究所"
+            },
+            "research": "[研究方向]",
+            "join": "JUL 2016",
+            "detail": false,
+            "about": "[About me]",
+            "email": "",
+            "github": ""
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "data": [{
+            "name": "ACM Digital Library",
+            "link": "http://dl.acm.org"
+        }, {
+            "name": "IEEE Xplore Digital Library",
+            "link": "http://ieeexplore.ieee.org/Xplore"
+        }, {
+            "name": "ScienceDirect",
+            "link": "http://www.sciencedirect.com"
+        }, {
+            "name": "Google Scholar",
+            "link": "https://scholar.google.com"
+        }
+    ]
+}
